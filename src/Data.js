@@ -1,0 +1,802 @@
+export const data =
+[{
+  "number": 1,
+  "no_katalog_data": "7616476317",
+  "kode_satker": "8182",
+  "tahun": 2012,
+  "no_urut": 1,
+  "satker": "Gigaclub",
+  "name": "Prodder"
+}, {
+  "number": 2,
+  "no_katalog_data": "8308903207",
+  "kode_satker": "9",
+  "tahun": 1997,
+  "no_urut": 2,
+  "satker": "Babbleblab",
+  "name": "Cardify"
+}, {
+  "number": 3,
+  "no_katalog_data": "7671279846",
+  "kode_satker": "2",
+  "tahun": 2007,
+  "no_urut": 3,
+  "satker": "Centimia",
+  "name": "Job"
+}, {
+  "number": 4,
+  "no_katalog_data": "9626963964",
+  "kode_satker": "3",
+  "tahun": 2012,
+  "no_urut": 4,
+  "satker": "Photobug",
+  "name": "Bitchip"
+}, {
+  "number": 5,
+  "no_katalog_data": "7531693615",
+  "kode_satker": "78",
+  "tahun": 2012,
+  "no_urut": 5,
+  "satker": "Blogspan",
+  "name": "Treeflex"
+}, {
+  "number": 6,
+  "no_katalog_data": "7462815702",
+  "kode_satker": "5052",
+  "tahun": 2004,
+  "no_urut": 6,
+  "satker": "Kazio",
+  "name": "Stronghold"
+}, {
+  "number": 7,
+  "no_katalog_data": "7325281358",
+  "kode_satker": "4",
+  "tahun": 2008,
+  "no_urut": 7,
+  "satker": "Thoughtbridge",
+  "name": "Toughjoyfax"
+}, {
+  "number": 8,
+  "no_katalog_data": "9073064503",
+  "kode_satker": "72",
+  "tahun": 2002,
+  "no_urut": 8,
+  "satker": "Youspan",
+  "name": "Zathin"
+}, {
+  "number": 9,
+  "no_katalog_data": "6142574274",
+  "kode_satker": "0600",
+  "tahun": 2012,
+  "no_urut": 9,
+  "satker": "Edgeblab",
+  "name": "Toughjoyfax"
+}, {
+  "number": 10,
+  "no_katalog_data": "4077987598",
+  "kode_satker": "3",
+  "tahun": 2010,
+  "no_urut": 10,
+  "satker": "Zooxo",
+  "name": "Daltfresh"
+}, {
+  "number": 11,
+  "no_katalog_data": "0632326646",
+  "kode_satker": "84563",
+  "tahun": 2012,
+  "no_urut": 11,
+  "satker": "Leexo",
+  "name": "Regrant"
+}, {
+  "number": 12,
+  "no_katalog_data": "5113074217",
+  "kode_satker": "92180",
+  "tahun": 1993,
+  "no_urut": 12,
+  "satker": "Yata",
+  "name": "Toughjoyfax"
+}, {
+  "number": 13,
+  "no_katalog_data": "8379441265",
+  "kode_satker": "836",
+  "tahun": 1992,
+  "no_urut": 13,
+  "satker": "Digitube",
+  "name": "Konklux"
+}, {
+  "number": 14,
+  "no_katalog_data": "9628122169",
+  "kode_satker": "68",
+  "tahun": 2007,
+  "no_urut": 14,
+  "satker": "Youtags",
+  "name": "Daltfresh"
+}, {
+  "number": 15,
+  "no_katalog_data": "0388908610",
+  "kode_satker": "38049",
+  "tahun": 1992,
+  "no_urut": 15,
+  "satker": "Teklist",
+  "name": "Holdlamis"
+}, {
+  "number": 16,
+  "no_katalog_data": "4876995745",
+  "kode_satker": "8",
+  "tahun": 2004,
+  "no_urut": 16,
+  "satker": "Fatz",
+  "name": "Daltfresh"
+}, {
+  "number": 17,
+  "no_katalog_data": "5750442454",
+  "kode_satker": "692",
+  "tahun": 2009,
+  "no_urut": 17,
+  "satker": "Oyoyo",
+  "name": "Fixflex"
+}, {
+  "number": 18,
+  "no_katalog_data": "6897024406",
+  "kode_satker": "39",
+  "tahun": 1984,
+  "no_urut": 18,
+  "satker": "Voomm",
+  "name": "Flexidy"
+}, {
+  "number": 19,
+  "no_katalog_data": "6505884653",
+  "kode_satker": "0732",
+  "tahun": 1990,
+  "no_urut": 19,
+  "satker": "Aimbo",
+  "name": "Domainer"
+}, {
+  "number": 20,
+  "no_katalog_data": "6978367583",
+  "kode_satker": "3",
+  "tahun": 2002,
+  "no_urut": 20,
+  "satker": "Fadeo",
+  "name": "Span"
+}, {
+  "number": 21,
+  "no_katalog_data": "9465076171",
+  "kode_satker": "8674",
+  "tahun": 2000,
+  "no_urut": 21,
+  "satker": "Tagchat",
+  "name": "Tampflex"
+}, {
+  "number": 22,
+  "no_katalog_data": "2262875413",
+  "kode_satker": "2",
+  "tahun": 2001,
+  "no_urut": 22,
+  "satker": "Flipbug",
+  "name": "Latlux"
+}, {
+  "number": 23,
+  "no_katalog_data": "5352958345",
+  "kode_satker": "96142",
+  "tahun": 1994,
+  "no_urut": 23,
+  "satker": "Nlounge",
+  "name": "Keylex"
+}, {
+  "number": 24,
+  "no_katalog_data": "0775705047",
+  "kode_satker": "4611",
+  "tahun": 2012,
+  "no_urut": 24,
+  "satker": "Kwideo",
+  "name": "Stringtough"
+}, {
+  "number": 25,
+  "no_katalog_data": "4066328776",
+  "kode_satker": "2888",
+  "tahun": 2000,
+  "no_urut": 25,
+  "satker": "Mynte",
+  "name": "Domainer"
+}, {
+  "number": 26,
+  "no_katalog_data": "5384292768",
+  "kode_satker": "74",
+  "tahun": 1997,
+  "no_urut": 26,
+  "satker": "Thoughtblab",
+  "name": "Tampflex"
+}, {
+  "number": 27,
+  "no_katalog_data": "8940463544",
+  "kode_satker": "31924",
+  "tahun": 2003,
+  "no_urut": 27,
+  "satker": "Livefish",
+  "name": "Quo Lux"
+}, {
+  "number": 28,
+  "no_katalog_data": "7599309446",
+  "kode_satker": "153",
+  "tahun": 2002,
+  "no_urut": 28,
+  "satker": "Yodo",
+  "name": "Sonair"
+}, {
+  "number": 29,
+  "no_katalog_data": "6074807124",
+  "kode_satker": "9425",
+  "tahun": 1992,
+  "no_urut": 29,
+  "satker": "Voonder",
+  "name": "Toughjoyfax"
+}, {
+  "number": 30,
+  "no_katalog_data": "0324342098",
+  "kode_satker": "68496",
+  "tahun": 1993,
+  "no_urut": 30,
+  "satker": "Demimbu",
+  "name": "Voyatouch"
+}, {
+  "number": 31,
+  "no_katalog_data": "4493791055",
+  "kode_satker": "26",
+  "tahun": 1960,
+  "no_urut": 31,
+  "satker": "Trunyx",
+  "name": "Gembucket"
+}, {
+  "number": 32,
+  "no_katalog_data": "9418735970",
+  "kode_satker": "955",
+  "tahun": 2011,
+  "no_urut": 32,
+  "satker": "Chatterbridge",
+  "name": "Zaam-Dox"
+}, {
+  "number": 33,
+  "no_katalog_data": "5116334503",
+  "kode_satker": "5",
+  "tahun": 2001,
+  "no_urut": 33,
+  "satker": "Topicblab",
+  "name": "Wrapsafe"
+}, {
+  "number": 34,
+  "no_katalog_data": "9163447304",
+  "kode_satker": "93295",
+  "tahun": 1993,
+  "no_urut": 34,
+  "satker": "Quatz",
+  "name": "Y-Solowarm"
+}, {
+  "number": 35,
+  "no_katalog_data": "8236400964",
+  "kode_satker": "52879",
+  "tahun": 1994,
+  "no_urut": 35,
+  "satker": "Mybuzz",
+  "name": "Tresom"
+}, {
+  "number": 36,
+  "no_katalog_data": "0268644713",
+  "kode_satker": "77650",
+  "tahun": 1976,
+  "no_urut": 36,
+  "satker": "Photospace",
+  "name": "Subin"
+}, {
+  "number": 37,
+  "no_katalog_data": "6925338678",
+  "kode_satker": "12706",
+  "tahun": 2012,
+  "no_urut": 37,
+  "satker": "Meemm",
+  "name": "Bytecard"
+}, {
+  "number": 38,
+  "no_katalog_data": "0189648953",
+  "kode_satker": "8",
+  "tahun": 1998,
+  "no_urut": 38,
+  "satker": "Dabvine",
+  "name": "Lotstring"
+}, {
+  "number": 39,
+  "no_katalog_data": "3955403726",
+  "kode_satker": "0905",
+  "tahun": 2001,
+  "no_urut": 39,
+  "satker": "Buzzbean",
+  "name": "Redhold"
+}, {
+  "number": 40,
+  "no_katalog_data": "9632040368",
+  "kode_satker": "68787",
+  "tahun": 1994,
+  "no_urut": 40,
+  "satker": "Zoovu",
+  "name": "Aerified"
+}, {
+  "number": 41,
+  "no_katalog_data": "1730006914",
+  "kode_satker": "30",
+  "tahun": 1984,
+  "no_urut": 41,
+  "satker": "Zoomcast",
+  "name": "Flexidy"
+}, {
+  "number": 42,
+  "no_katalog_data": "2063724687",
+  "kode_satker": "129",
+  "tahun": 2003,
+  "no_urut": 42,
+  "satker": "Katz",
+  "name": "Regrant"
+}, {
+  "number": 43,
+  "no_katalog_data": "2662381523",
+  "kode_satker": "6093",
+  "tahun": 1992,
+  "no_urut": 43,
+  "satker": "Myworks",
+  "name": "Stronghold"
+}, {
+  "number": 44,
+  "no_katalog_data": "6196564064",
+  "kode_satker": "78",
+  "tahun": 2002,
+  "no_urut": 44,
+  "satker": "Dynazzy",
+  "name": "Redhold"
+}, {
+  "number": 45,
+  "no_katalog_data": "6526839495",
+  "kode_satker": "0",
+  "tahun": 1994,
+  "no_urut": 45,
+  "satker": "Devshare",
+  "name": "Konklux"
+}, {
+  "number": 46,
+  "no_katalog_data": "4610024136",
+  "kode_satker": "2595",
+  "tahun": 1999,
+  "no_urut": 46,
+  "satker": "Babbleopia",
+  "name": "Mat Lam Tam"
+}, {
+  "number": 47,
+  "no_katalog_data": "0264615352",
+  "kode_satker": "94421",
+  "tahun": 2006,
+  "no_urut": 47,
+  "satker": "Centizu",
+  "name": "Asoka"
+}, {
+  "number": 48,
+  "no_katalog_data": "6162880141",
+  "kode_satker": "670",
+  "tahun": 1990,
+  "no_urut": 48,
+  "satker": "Brainlounge",
+  "name": "Bitwolf"
+}, {
+  "number": 49,
+  "no_katalog_data": "2122701730",
+  "kode_satker": "87497",
+  "tahun": 1993,
+  "no_urut": 49,
+  "satker": "Photospace",
+  "name": "Tresom"
+}, {
+  "number": 50,
+  "no_katalog_data": "0721065651",
+  "kode_satker": "1",
+  "tahun": 2006,
+  "no_urut": 50,
+  "satker": "Realpoint",
+  "name": "Sonair"
+}, {
+  "number": 51,
+  "no_katalog_data": "5403009159",
+  "kode_satker": "173",
+  "tahun": 1997,
+  "no_urut": 51,
+  "satker": "Skynoodle",
+  "name": "Stim"
+}, {
+  "number": 52,
+  "no_katalog_data": "1324659262",
+  "kode_satker": "3",
+  "tahun": 2009,
+  "no_urut": 52,
+  "satker": "Photobug",
+  "name": "Tampflex"
+}, {
+  "number": 53,
+  "no_katalog_data": "3785401892",
+  "kode_satker": "89258",
+  "tahun": 2011,
+  "no_urut": 53,
+  "satker": "Meembee",
+  "name": "Holdlamis"
+}, {
+  "number": 54,
+  "no_katalog_data": "8914369404",
+  "kode_satker": "5538",
+  "tahun": 2007,
+  "no_urut": 54,
+  "satker": "Brainbox",
+  "name": "Transcof"
+}, {
+  "number": 55,
+  "no_katalog_data": "5228907343",
+  "kode_satker": "817",
+  "tahun": 2003,
+  "no_urut": 55,
+  "satker": "Topdrive",
+  "name": "Tresom"
+}, {
+  "number": 56,
+  "no_katalog_data": "3964992062",
+  "kode_satker": "2889",
+  "tahun": 2002,
+  "no_urut": 56,
+  "satker": "Flashdog",
+  "name": "Pannier"
+}, {
+  "number": 57,
+  "no_katalog_data": "6251171022",
+  "kode_satker": "64",
+  "tahun": 2009,
+  "no_urut": 57,
+  "satker": "Quamba",
+  "name": "Hatity"
+}, {
+  "number": 58,
+  "no_katalog_data": "9976914423",
+  "kode_satker": "26999",
+  "tahun": 2013,
+  "no_urut": 58,
+  "satker": "Gigabox",
+  "name": "Overhold"
+}, {
+  "number": 59,
+  "no_katalog_data": "4558423020",
+  "kode_satker": "33780",
+  "tahun": 2000,
+  "no_urut": 59,
+  "satker": "Jabbercube",
+  "name": "Holdlamis"
+}, {
+  "number": 60,
+  "no_katalog_data": "5016080364",
+  "kode_satker": "5",
+  "tahun": 1998,
+  "no_urut": 60,
+  "satker": "Feedfish",
+  "name": "Quo Lux"
+}, {
+  "number": 61,
+  "no_katalog_data": "9332648174",
+  "kode_satker": "7879",
+  "tahun": 1996,
+  "no_urut": 61,
+  "satker": "Twitterwire",
+  "name": "Namfix"
+}, {
+  "number": 62,
+  "no_katalog_data": "3167394528",
+  "kode_satker": "0566",
+  "tahun": 1995,
+  "no_urut": 62,
+  "satker": "Voolith",
+  "name": "Alpha"
+}, {
+  "number": 63,
+  "no_katalog_data": "8591451635",
+  "kode_satker": "102",
+  "tahun": 2009,
+  "no_urut": 63,
+  "satker": "Oloo",
+  "name": "Greenlam"
+}, {
+  "number": 64,
+  "no_katalog_data": "8565148270",
+  "kode_satker": "19675",
+  "tahun": 2000,
+  "no_urut": 64,
+  "satker": "Geba",
+  "name": "Fixflex"
+}, {
+  "number": 65,
+  "no_katalog_data": "3292339839",
+  "kode_satker": "695",
+  "tahun": 2011,
+  "no_urut": 65,
+  "satker": "Tagchat",
+  "name": "Voyatouch"
+}, {
+  "number": 66,
+  "no_katalog_data": "1412903823",
+  "kode_satker": "5731",
+  "tahun": 1993,
+  "no_urut": 66,
+  "satker": "Aivee",
+  "name": "Bitwolf"
+}, {
+  "number": 67,
+  "no_katalog_data": "4174969043",
+  "kode_satker": "967",
+  "tahun": 2006,
+  "no_urut": 67,
+  "satker": "Edgetag",
+  "name": "Overhold"
+}, {
+  "number": 68,
+  "no_katalog_data": "7062619531",
+  "kode_satker": "6922",
+  "tahun": 2012,
+  "no_urut": 68,
+  "satker": "Layo",
+  "name": "Holdlamis"
+}, {
+  "number": 69,
+  "no_katalog_data": "0964314606",
+  "kode_satker": "54853",
+  "tahun": 1994,
+  "no_urut": 69,
+  "satker": "Yabox",
+  "name": "Regrant"
+}, {
+  "number": 70,
+  "no_katalog_data": "6978395463",
+  "kode_satker": "3",
+  "tahun": 1995,
+  "no_urut": 70,
+  "satker": "Meembee",
+  "name": "Matsoft"
+}, {
+  "number": 71,
+  "no_katalog_data": "8440808356",
+  "kode_satker": "8297",
+  "tahun": 1998,
+  "no_urut": 71,
+  "satker": "Gigabox",
+  "name": "Regrant"
+}, {
+  "number": 72,
+  "no_katalog_data": "0952324725",
+  "kode_satker": "026",
+  "tahun": 1996,
+  "no_urut": 72,
+  "satker": "Jatri",
+  "name": "Flexidy"
+}, {
+  "number": 73,
+  "no_katalog_data": "2003969411",
+  "kode_satker": "288",
+  "tahun": 2006,
+  "no_urut": 73,
+  "satker": "Realfire",
+  "name": "Lotlux"
+}, {
+  "number": 74,
+  "no_katalog_data": "8262269802",
+  "kode_satker": "197",
+  "tahun": 2005,
+  "no_urut": 74,
+  "satker": "Meetz",
+  "name": "Veribet"
+}, {
+  "number": 75,
+  "no_katalog_data": "3155261560",
+  "kode_satker": "5",
+  "tahun": 2008,
+  "no_urut": 75,
+  "satker": "Quatz",
+  "name": "Vagram"
+}, {
+  "number": 76,
+  "no_katalog_data": "7795579620",
+  "kode_satker": "21228",
+  "tahun": 1992,
+  "no_urut": 76,
+  "satker": "Jatri",
+  "name": "Zaam-Dox"
+}, {
+  "number": 77,
+  "no_katalog_data": "2940539723",
+  "kode_satker": "01303",
+  "tahun": 1985,
+  "no_urut": 77,
+  "satker": "Yodel",
+  "name": "Hatity"
+}, {
+  "number": 78,
+  "no_katalog_data": "5549820625",
+  "kode_satker": "927",
+  "tahun": 2004,
+  "no_urut": 78,
+  "satker": "Skinix",
+  "name": "Tempsoft"
+}, {
+  "number": 79,
+  "no_katalog_data": "0223466611",
+  "kode_satker": "15838",
+  "tahun": 2011,
+  "no_urut": 79,
+  "satker": "Dynava",
+  "name": "Vagram"
+}, {
+  "number": 80,
+  "no_katalog_data": "8457291327",
+  "kode_satker": "435",
+  "tahun": 1992,
+  "no_urut": 80,
+  "satker": "Thoughtbeat",
+  "name": "Solarbreeze"
+}, {
+  "number": 81,
+  "no_katalog_data": "7284934506",
+  "kode_satker": "314",
+  "tahun": 2008,
+  "no_urut": 81,
+  "satker": "Roodel",
+  "name": "Alphazap"
+}, {
+  "number": 82,
+  "no_katalog_data": "4317923580",
+  "kode_satker": "18433",
+  "tahun": 1992,
+  "no_urut": 82,
+  "satker": "Devshare",
+  "name": "Fintone"
+}, {
+  "number": 83,
+  "no_katalog_data": "5514981398",
+  "kode_satker": "5",
+  "tahun": 2009,
+  "no_urut": 83,
+  "satker": "Jaxspan",
+  "name": "Rank"
+}, {
+  "number": 84,
+  "no_katalog_data": "1085260976",
+  "kode_satker": "71",
+  "tahun": 1995,
+  "no_urut": 84,
+  "satker": "Wordware",
+  "name": "Zoolab"
+}, {
+  "number": 85,
+  "no_katalog_data": "6733236591",
+  "kode_satker": "6",
+  "tahun": 2005,
+  "no_urut": 85,
+  "satker": "Twitternation",
+  "name": "Asoka"
+}, {
+  "number": 86,
+  "no_katalog_data": "3483849211",
+  "kode_satker": "4742",
+  "tahun": 1994,
+  "no_urut": 86,
+  "satker": "Quire",
+  "name": "Latlux"
+}, {
+  "number": 87,
+  "no_katalog_data": "2249356440",
+  "kode_satker": "50",
+  "tahun": 2003,
+  "no_urut": 87,
+  "satker": "Skimia",
+  "name": "Stringtough"
+}, {
+  "number": 88,
+  "no_katalog_data": "9532130098",
+  "kode_satker": "2245",
+  "tahun": 1995,
+  "no_urut": 88,
+  "satker": "Oyoloo",
+  "name": "Stronghold"
+}, {
+  "number": 89,
+  "no_katalog_data": "2168010978",
+  "kode_satker": "2321",
+  "tahun": 2005,
+  "no_urut": 89,
+  "satker": "Buzzster",
+  "name": "Redhold"
+}, {
+  "number": 90,
+  "no_katalog_data": "0094299978",
+  "kode_satker": "99822",
+  "tahun": 1984,
+  "no_urut": 90,
+  "satker": "Voolia",
+  "name": "Stronghold"
+}, {
+  "number": 91,
+  "no_katalog_data": "9896827389",
+  "kode_satker": "10",
+  "tahun": 2008,
+  "no_urut": 91,
+  "satker": "Riffpath",
+  "name": "Bitwolf"
+}, {
+  "number": 92,
+  "no_katalog_data": "9185316911",
+  "kode_satker": "16618",
+  "tahun": 1994,
+  "no_urut": 92,
+  "satker": "Realfire",
+  "name": "Gembucket"
+}, {
+  "number": 93,
+  "no_katalog_data": "9176072983",
+  "kode_satker": "0",
+  "tahun": 2006,
+  "no_urut": 93,
+  "satker": "Dynava",
+  "name": "Alpha"
+}, {
+  "number": 94,
+  "no_katalog_data": "5384369655",
+  "kode_satker": "3992",
+  "tahun": 2010,
+  "no_urut": 94,
+  "satker": "Zoombox",
+  "name": "Latlux"
+}, {
+  "number": 95,
+  "no_katalog_data": "6832153201",
+  "kode_satker": "20",
+  "tahun": 2001,
+  "no_urut": 95,
+  "satker": "Vimbo",
+  "name": "Zontrax"
+}, {
+  "number": 96,
+  "no_katalog_data": "9762386787",
+  "kode_satker": "66987",
+  "tahun": 2004,
+  "no_urut": 96,
+  "satker": "Feedbug",
+  "name": "Stim"
+}, {
+  "number": 97,
+  "no_katalog_data": "1432766848",
+  "kode_satker": "19662",
+  "tahun": 2011,
+  "no_urut": 97,
+  "satker": "Meembee",
+  "name": "Cardguard"
+}, {
+  "number": 98,
+  "no_katalog_data": "5160834141",
+  "kode_satker": "03",
+  "tahun": 1993,
+  "no_urut": 98,
+  "satker": "Vimbo",
+  "name": "Tampflex"
+}, {
+  "number": 99,
+  "no_katalog_data": "2628734125",
+  "kode_satker": "819",
+  "tahun": 1994,
+  "no_urut": 99,
+  "satker": "Wikizz",
+  "name": "Andalax"
+}, {
+  "number": 100,
+  "no_katalog_data": "3625318121",
+  "kode_satker": "51883",
+  "tahun": 2006,
+  "no_urut": 100,
+  "satker": "Photobean",
+  "name": "Bitwolf"
+}]
